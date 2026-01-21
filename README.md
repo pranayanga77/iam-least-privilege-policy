@@ -1,3 +1,5 @@
+Role Focus: Cloud Support / Entry-Level Cloud Engineer
+
 # IAM Least Privilege Policy – EC2 Read Only
 
 ## Objective
